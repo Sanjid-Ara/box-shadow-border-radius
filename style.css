@@ -1,0 +1,275 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+.green {
+    background-color: rgb(8, 100, 8);
+    height: 250px;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 40px;
+}
+
+.red {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 2px 5px red;
+    padding: 20px;
+}
+
+.logo-1 {
+    margin-left: 150px;
+}
+
+.logo-1 img {
+    box-shadow: 0px 5px yellow, 5px 0px red, -5px 0px palegreen, 0px -5px pink;
+}
+
+.logo-2 {
+    margin-left: 150px;
+}
+
+.logo-2 img {
+    height: 300px;
+    box-shadow: 0px 10px blue, 10px 0px fuchsia, -10px 0px darkorange, 0px -10px chartreuse;
+}
+
+.logo-3 {
+    margin-left: 150px;
+}
+
+.logo-3 img {
+    height: 250px;
+    width: 300px;
+    box-shadow: 0px 5px lightcoral, 5px 0px crimson, -5px 0px red, 0px -5px aqua;
+}
+
+.mainbox-1 {
+    /* background-color: wheat; */
+    display: flex;
+    margin-left: 100px;
+    width: 85%;
+}
+
+.box-1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.box-2 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50px 0px 50px 50px;
+}
+
+.box-3 {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.box-4 {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border-radius: 50px 0px 50px 50px;
+}
+
+.box-5 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.box-6 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px 0px 50px 50px;
+}
+
+.box-7 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.box-8 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px 0px 50px 50px;
+}
+
+.box-9 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.box-10 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50px 0px 50px 50px;
+}
+
+.box-11 {
+    height: 100px;
+    width: 100px;
+    background-color: orangered;
+    border-radius: 0px 50px 50px 50px;
+}
+
+.box-12 {
+    height: 100px;
+    width: 100px;
+    background-color: orangered;
+    border-radius: 50px 0px 50px 50px;
+}
+
+.mainbox-2 {
+    /* background-color: wheat; */
+    display: flex;
+    margin-left: 100px;
+    width: 85%;
+}
+
+.box-13 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50px 50px 50px 0px;
+}
+
+.box-14 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50px 50px 0px 50px;
+}
+
+.box-15 {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border-radius: 50px 50px 50px 0px;
+}
+
+.box-16 {
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border-radius: 50px 50px 0px 50px;
+}
+
+.box-17 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px 50px 50px 0px;
+}
+
+.box-18 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px 50px 0px 50px;
+}
+
+.box-19 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px 50px 50px 0px;
+}
+
+.box-20 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px 50px 0px 50px;
+}
+
+.box-21 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50px 50px 50px 0px;
+}
+
+.box-22 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50px 50px 0px 50px;
+}
+
+.box-23 {
+    height: 100px;
+    width: 100px;
+    background-color: orangered;
+    border-radius: 50px 50px 50px 0px;
+}
+
+.box-24 {
+    height: 100px;
+    width: 100px;
+    background-color: orangered;
+    border-radius: 50px 50px 0px 50px;
+}
+
+.sky {
+    background-color: rgb(8, 8, 77);
+    height: 260px;
+    width: 400px;
+    margin-left: 500px;
+    padding: 5px;
+}
+
+.moon {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px 100px 100px 100px;
+    margin: auto;
+    box-shadow: 0px 0px 10px 10px white;
+}
+
+.forest {
+    background-color: green;
+    height: 50px;
+    width: 400px;
+    box-shadow: 0px 20px 1px black, 0px 0px 50px lightblue;
+}
+
+h2 {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 5px 5px blue;
+}
